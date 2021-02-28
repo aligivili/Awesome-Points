@@ -1,1 +1,1 @@
-# Awesome-Points
+# Awesome-Python-Tips
